@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rashmi Kanyal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aspiring MCA Grad & Tech Explorer</h3>
+
+- 📫 How to reach me **rashmikanyal7@gmail.com**
+
+- ⚡ Fun fact **MCA student with a knack for smiles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rashmi-kanyal-361834251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rashmi-kanyal-361834251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rashmi kanyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmi kanyal" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rashmikanyal7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rashmikanyal7" height="30" width="40" /></a>
 </p>
 
